@@ -1,0 +1,18 @@
+/* frontend/src/index.css */
+:root {
+  --beige-dark: #C1B39A;
+  --cream: #F4F0E4;
+  --black-coffee: #170000;
+  --deep-red: #350a06;
+  --magenta: #A92968;
+  --light-pink: #ECC6C0;
+  --white: #ffffff;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background-color: var(--cream);
+  /* Fondo suave */
+  color: var(--black-coffee);
+}
