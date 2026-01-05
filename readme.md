@@ -58,7 +58,7 @@ GlowManager/
 
 Instalación y Configuración
 1- Clonar el repositorio:
-´git clone https://github.com/TomcoDev/GlowManager.git´
+https://github.com/TomcoDev/glowmanager.git
 
 2- Configurar el Backend:
 
